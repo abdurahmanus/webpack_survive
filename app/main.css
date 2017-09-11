@@ -3,7 +3,7 @@ body {
 }
 
 .redButton {
-    background: red;
+    background: #fff;
     display: flex;
     border: 1px solid gray;
 }
