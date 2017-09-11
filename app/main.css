@@ -1,8 +1,9 @@
 body {
     background: cornsilk;
-    display: flex;
 }
 
 .redButton {
     background: red;
+    display: flex;
+    border: 1px solid gray;
 }
